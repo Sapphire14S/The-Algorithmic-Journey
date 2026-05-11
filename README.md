@@ -1,2 +1,14 @@
-# The-Algorithmic-Journey
-Curated collection of competitive programming algorithms, templates, notes, resources, and problem-solving techniques.
+# CP-Algorithms
+
+A comprehensive repository for Competitive Programming and Algorithms.
+
+This repository contains:
+- Algorithms & Data Structures Notes
+- C++ Templates
+- Problem Solving Resources
+- Competitive Programming Sheets
+- Important Implementations
+- STL Tricks & Utilities
+- Interview Preparation Material
+
+Built for learning, revision, contests, and technical interviews.
